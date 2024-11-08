@@ -1,0 +1,24 @@
+2024-11-08 15:28:13,870 - ERROR - Error during monitoring: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'pointPolygonTest'
+> Overload resolution failed:
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+
+2024-11-08 15:28:13,968 - INFO - Table monitor stopped
+2024-11-08 15:28:45,126 - ERROR - Error during monitoring: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'pointPolygonTest'
+> Overload resolution failed:
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+
+2024-11-08 15:28:45,222 - INFO - Table monitor stopped
+2024-11-08 15:29:03,666 - ERROR - Error during monitoring: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'pointPolygonTest'
+> Overload resolution failed:
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+
+2024-11-08 15:29:03,764 - INFO - Table monitor stopped
+2024-11-08 15:29:09,107 - ERROR - Error during monitoring: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'pointPolygonTest'
+> Overload resolution failed:
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+>  - Can't parse 'pt'. Sequence item with index 0 has a wrong type
+
+2024-11-08 15:29:09,199 - INFO - Table monitor stopped
