@@ -265,17 +265,6 @@ class SASignLanguageTrainer:
         # Combine frame with text area
         combined_frame = np.vstack([frame, text_area])
         return combined_frame
-import cv2
-import mediapipe as mp
-import numpy as np
-import json
-import os
-import time
-from datetime import datetime
-import pickle
-from collections import deque
-
-# [Previous class definition stays the same]
 
 def main():
     trainer = SASignLanguageTrainer()
@@ -290,7 +279,7 @@ def main():
     recording_countdown = 0
     
     print("\nControls:")
-    print("\\ - Toggle training mode")  # Changed to backslash
+    print("\\ - Toggle training mode") 
     print("A-Z - Select letter to train in training mode")
     print("0-9 - Select number to train in training mode")
     print("Space - Add space")
